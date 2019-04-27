@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logging</string>
+    <string name="press_key">onKeyDown => true</string>
+
+</resources>
